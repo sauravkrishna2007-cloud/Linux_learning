@@ -1,0 +1,5 @@
+cmd --help   =   is used to give a short note of the commandline
+for eg. mv --help
+
+man cmd    =    is used to give detailed note of the commandline
+for eg. man mv

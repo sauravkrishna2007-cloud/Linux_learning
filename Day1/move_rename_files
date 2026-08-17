@@ -1,0 +1,13 @@
+In linux we can move files and directories using the command line mv which means move (rename)
+
+To move:
+syntax is:
+mv file_name /destination
+mv directory_name /destination
+
+To rename
+syntax is:
+mv old_name new_name
+
+
+This is mv to you all.
